@@ -1,0 +1,17 @@
+﻿"CatName","Location","LocAlias","Colour","Breed","Personality","Age","Brushing","Pets","OtherCats","Playing","Treats"
+Periwinkle,A,Gary's Cat Cafe,Blue-Point,Siamese,cuddly,senior,y,y,y,y,n
+Tabitha,A,Gary's Cat Cafe,Orange,Short-Hair,athletic,adult,n,y,n,y,y
+SugarPaws,A,Gary's Cat Cafe,Tuxedo,Short-Hair,shy,kitten ,y,n,y,y,y
+Zelda,A,Gary's Cat Cafe,Seal-Point,Birman,playful,adult,y,y,n,y,y
+Yams,B,Kitten City Rescue,Orange,Short-Hair,athletic,kitten,n,y,y,y,y
+Leaf,B,Kitten City Rescue,Black,Short-Hair,aloof,adult,y,n,n,n,y
+Fox,B,Kitten City Rescue,Orange-White,Short-Hair,curious,adult,n,y,y,y,y
+Dana,B,Kitten City Rescue,Calico,Short-Hair,independent,adult,y,y,n,n,n
+Buster,C,Happy Tails Rescue,Brown-Black,Maine Coon,annoying,kitten ,y,y,y,y,y
+Ophelia,C,Happy Tails Rescue,Black,Short-Hair,aloof,senior,n,n,n,n,y
+Artemis,C,Happy Tails Rescue,Black-White,Short-Hair,independent,adult,y,y,n,n,y
+Gary,C,Happy Tails Rescue,Grey,Scottish Fold,dopey,kitten,n,y,y,y,y
+Loki,D,AllPaws Cat Shelter,Lavender-Silver,Ragdoll,loyal,senior,Y,Y,Y,y,N
+Boo,D,AllPaws Cat Shelter,Beige,Persian,Free,kitten,Y,Y,Y,Y,Y
+Wanda,D,AllPaws Cat Shelter,White,British Short Hair,Friendly,adult,N,Y,Y,N,N
+Tobi,D,AllPaws Cat Shelter,Blue-Grey,Burmese,affectionate,adult,N,Y,Y,Y,Y
